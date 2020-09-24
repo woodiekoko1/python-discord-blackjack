@@ -110,7 +110,7 @@ global playing
 playing = False
 
 # Discord bot stuff
-TOKEN = 'NzU4NzY0ODYyODE3NDM1Njc4.X2zs2A.OIu43m8UY3lYRx9ySGZ-mhuA5aI'
+TOKEN = ####
 client = discord.Client()
 bot = commands.Bot('!')
 
